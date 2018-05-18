@@ -36,5 +36,10 @@ There's an experimental patch for windows in this [PR](https://github.com/udacit
 4. Run it: `./pid`. 
 
 
-## Editor Settings
+## Reflection
+### The effect of the P, I, D component of the PID algorithm
+
+### Video of the car
+
+### Final hyperparameters
 
