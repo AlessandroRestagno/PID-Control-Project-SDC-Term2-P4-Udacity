@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 ## Overview
-In this project, I implemented a PID controller in C++ to maneuver the vehicle around the track!
+In this project, I implemented a PID controller in C++ to maneuver the vehicle around the track.
 The simulator will provide you the cross track error (CTE) and the velocity (mph) in order to compute the appropriate steering angle.
 
 ## Dependencies
@@ -39,7 +39,7 @@ There's an experimental patch for windows in this [PR](https://github.com/udacit
 4. Run it: `./pid`. 
 
 ## Simulator
-
+You can download the simualtor [here](https://github.com/udacity/self-driving-car-sim/releases).
 ## Reflection
 ### The effect of the P, I, D component of the PID algorithm
 
