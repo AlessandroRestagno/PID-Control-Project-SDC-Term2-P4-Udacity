@@ -46,7 +46,7 @@ You can download the simualtor [here](https://github.com/udacity/self-driving-ca
 - The integral component sums the error term over time. The result is that even a small error term will cause the integral component to increase slowly. The integral response will continually increase over time unless the error is zero, so the effect is to drive the Steady-State error to zero. Steady-State error is the final difference between the process variable and set point. A phenomenon called integral windup results when integral action saturates a controller without the controller driving the error signal toward zero.
 - The derivative component causes the output to decrease if the process variable is increasing rapidly. The derivative response is proportional to the rate of change of the process variable. Increasing the derivative time (Td) parameter will cause the control system to react more strongly to changes in the error term and will increase the speed of the overall control system response. Most practical control systems use very small derivative time (Td), because the Derivative Response is highly sensitive to noise in the process variable signal. If the sensor feedback signal is noisy or if the control loop rate is too slow, the derivative response can make the control system unstable
 
-[Fonts:](http://www.ni.com/white-paper/3782/en/)
+Fonts: [http://www.ni.com/white-paper/3782/en/](http://www.ni.com/white-paper/3782/en/)
 
 ### Video of the car
 
