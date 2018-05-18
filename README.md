@@ -49,7 +49,7 @@ You can download the simualtor [here](https://github.com/udacity/self-driving-ca
 Fonts: [http://www.ni.com/white-paper/3782/en/](http://www.ni.com/white-paper/3782/en/)
 
 ### Video of the car
-[Video sample](https://youtu.be/rqU817fhnEU)
+[Video sample](https://youtu.be/3C0sR5jeMy4)
 
 ### Final hyperparameters
 
