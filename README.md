@@ -42,6 +42,9 @@ There's an experimental patch for windows in this [PR](https://github.com/udacit
 You can download the simualtor [here](https://github.com/udacity/self-driving-car-sim/releases). Then, choose "Project 4: PID Controller" ![Project 4: PID Controller](/images/PID_window.PNG)
 ## Reflection
 ### The effect of the P, I, D component of the PID algorithm
+- The proportional part
+- The integral part
+- The derivative part
 
 ### Video of the car
 
