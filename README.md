@@ -53,4 +53,8 @@ Source: [http://www.ni.com/white-paper/3782/en/](http://www.ni.com/white-paper/3
 This video has been made with a previous version of my code. There are some minor changes in respect to my final code (```max_steer``` and ```throttle``` in the ```main.cpp``` file).
 
 ### Final hyperparameters
-
+I decided to manually tune the hyperparameters. I first tried to implement twiddle, but it was difficult to implement and didn't give me a good result. Watching what other students did, I decided to discard the twiddle implementation and I focus my effort on optimizing manually the hyperparameters. 
+I choose to set P to 0.35, I to 0.00005 and D to 18. 
+I first tried with all the three hyperparameters close to 1, but the car went off road. I had to drastically diminish I to make the car stay on track. To optimize driving I had to drastically increase D to make the car stay on track recovering from errors.
+I, then, played a little with ```throttle``` and ```steer_value``` to increase the speed of the car and increasing its performance. You can read the code in the ```main.cpp``` file (lines 70:88).
+The car reached the speed of 60 mph.
