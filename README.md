@@ -50,7 +50,7 @@ Source: [http://www.ni.com/white-paper/3782/en/](http://www.ni.com/white-paper/3
 
 ### Video of the car
 [Video sample](https://youtu.be/3C0sR5jeMy4)
-This video has been made with a previous version of my code. There are some small change respect to my final code in ```max_steer``` and ```throttle``` in the ```main.cpp``` file.
+This video has been made with a previous version of my code. There are some minor changes in respect to my final code (```max_steer``` and ```throttle``` in the ```main.cpp``` file).
 
 ### Final hyperparameters
 
